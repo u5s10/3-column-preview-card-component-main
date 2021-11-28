@@ -1,0 +1,27 @@
+// layouts
+
+$mobile: 375px;
+$desktop: 1440px;
+
+// Colors
+
+// Primary
+$Bright-orange: hsl(31, 77%, 52%);
+$Dark-cyan: hsl(184, 100%, 22%);
+$Very-dark-cyan: hsl(179, 100%, 13%);
+
+// Neutral
+// paragraphs
+$Transparent-white: hsla(0, 0%, 100%, 0.75);
+// headings, button, backgroung
+$Very-lightgray: hsl(0, 0%, 95%);
+
+// Typography
+
+// Font sizes
+$font-size-heading: clamp(4rem, calc(3.7183rem + 0.7512vw), 4.8rem);
+$font-size-paragraph: clamp(1.6rem, calc(1.5296rem + 0.1878vw), 1.8rem);
+
+// Font weights
+$font-weight-normal: 400;
+$font-weight-bolder: 700;
